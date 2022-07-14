@@ -2,7 +2,7 @@
 - 👀 I’m interested in software design &development
 s- 🌱 I’m currently working on springboot,microservices,php,asterisk.
 - 💞 I’m continously looking to develop myself by working on different projects which have varities functionalities.
-- currently, I am working at Synesis IT (https://www.synesisit.com.bd/) on various projects like DAE(http://pqw.dae.gov.bd/dae_plant_quarantine/users/login),Wasa,Telenor,NBR etc.
+- currently, I am working at Synesis IT (https://www.synesisit.com.bd/) on various projects like DAE(http://pqw.dae.gov.bd/dae_plant_quarantine/users/login),E-passport-SMS-Gateway,Vas,DGFP etc.
 - 📫 mail at saidularefin10@gmail.com
 
 <!---
