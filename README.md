@@ -2,7 +2,7 @@
 - 👀 I’m interested in software design &development
 s- 🌱 I’m currently working on springboot,microservices,php,asterisk.
 - 💞 I’m continously looking to develop myself by working on different projects which have varities functionalities.
-- currently, I am working at Dhrubok Info Tech Ltd.
+- currently, I am working at Penta Global Ltd.
 - 📫 mail at saidularefin10@gmail.com
 
 <!---
