@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Saidul Arafin
-- 👀 I’m interested in software design &development
-s- 🌱 I’m currently working on springboot,microservices,php,asterisk.
-- 💞 I’m continously looking to develop myself by working on different projects which have varities functionalities.
-- currently, I am working at Penta Global Ltd.
-- 📫 mail at saidularefin10@gmail.com
+# Hi there, I'm Saidul Arafin 👋
 
-<!---
-sadi10/sadi10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 I'm a software engineer passionate about software design and development. Currently, I work with technologies like Spring Boot, Microservices, PHP, and Asterisk at Penta Global Ltd.
+
+🚀 I enjoy working on diverse projects that challenge me and help me grow. I'm always eager to learn and explore new functionalities.
+
+📧 Feel free to reach out to me at saidularefin10@gmail.com.
+
+Connect with me:
+[LinkedIn](https://www.linkedin.com/in/sadi10/)
+Happy coding! 🌟
